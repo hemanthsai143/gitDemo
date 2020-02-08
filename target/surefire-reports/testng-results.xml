@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38" started-at="2018-10-08T14:35:16Z" finished-at="2018-10-08T14:35:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38" started-at="2018-10-08T14:35:16Z" finished-at="2018-10-08T14:35:16Z">
+      <class name="qaclickacademy.SecTest">
+        <test-method status="PASS" signature="fiestex()[pri:0, instance:qaclickacademy.SecTest@380fb434]" name="fiestex" duration-ms="1" started-at="2018-10-08T20:05:16Z" finished-at="2018-10-08T20:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fiestex -->
+        <test-method status="PASS" signature="sconfis()[pri:0, instance:qaclickacademy.SecTest@380fb434]" name="sconfis" duration-ms="0" started-at="2018-10-08T20:05:16Z" finished-at="2018-10-08T20:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sconfis -->
+      </class> <!-- qaclickacademy.SecTest -->
+      <class name="qaclickacademy.FirstTest">
+        <test-method status="PASS" signature="firstone()[pri:0, instance:qaclickacademy.FirstTest@783e6358]" name="firstone" duration-ms="12" started-at="2018-10-08T20:05:16Z" finished-at="2018-10-08T20:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstone -->
+        <test-method status="PASS" signature="secondone()[pri:0, instance:qaclickacademy.FirstTest@783e6358]" name="secondone" duration-ms="0" started-at="2018-10-08T20:05:16Z" finished-at="2018-10-08T20:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondone -->
+      </class> <!-- qaclickacademy.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
